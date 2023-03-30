@@ -1,0 +1,13 @@
+router_contract=0x55d7DBA2d465468242E568669A584a73f59a38C4
+
+reserve0_address=0xA21B21fe4263Ef932D0359E1e733a54f1838f793
+reserve1_address=0xf724d6D61aE68ca8df356b9FB6583bfEE5ABAe8c
+
+amount0=100
+
+wallet_address=
+wallet_private_key=
+
+
+rpc=https://rpc.j2o.io
+chain_id=35011
